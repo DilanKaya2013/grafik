@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3192;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+
+      .cls-3 {
+        fill: #0071bc;
+      }
+
+      .cls-4 {
+        fill: #f15a24;
+      }
+
+      .cls-5 {
+        fill: #f276a0;
+      }
+
+      .cls-6 {
+        fill: #29abe2;
+      }
+    </style>
+  </defs>
+  <g id="Balon">
+    <polygon class="cls-2" points="257.45 382.98 251.52 387.96 188.19 232.86 194.12 227.88 257.45 382.98"/>
+    <polygon class="cls-2" points="222.52 401.62 227.87 406.69 299.44 255.3 294.09 250.23 222.52 401.62"/>
+    <path class="cls-1" d="M365.44,149.35c-15.73,72.05-50.17,138.99-112.94,138.99s-94.15-64.74-114.37-138.99C113.83,60.09,189.02,11,251.79,11s134.06,44.85,113.65,138.35Z"/>
+    <ellipse class="cls-3" cx="250.79" cy="150.38" rx="98.1" ry="133.92"/>
+    <ellipse class="cls-6" cx="250.96" cy="150.03" rx="73.8" ry="126.56"/>
+    <ellipse class="cls-5" cx="251.14" cy="150.35" rx="49.68" ry="121.14"/>
+    <path class="cls-4" d="M193.75,331h100.68v55.61c0,17.32-14.06,31.39-31.39,31.39h-37.9c-17.32,0-31.39-14.06-31.39-31.39v-55.61h0Z"/>
+  </g>
+</svg>
