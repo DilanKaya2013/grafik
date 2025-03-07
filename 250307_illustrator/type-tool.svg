@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1275.09 423">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        fill: #ddede9;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-5 {
+        fill: #000;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: .02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #e8efee;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-4 {
+        fill: #070707;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: .02em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: .01em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: .01em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        stroke: #f4f9f8;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-5" cx="221" cy="211.5" rx="221" ry="211.5"/>
+  <g>
+    <g>
+      <path class="cls-6" d="M775.78,244.06l-54.52,84.92c-9.56,14.91-23.33,25.49-38.76,31.19-15.43-5.7-29.2-16.28-38.76-31.19l-54.52-84.92-54.07-84.22c-23.43-36.48-12.84-85.04,23.64-108.47,13.12-8.43,27.81-12.45,42.33-12.45,25.84,0,51.15,12.74,66.14,36.1l15.24,23.74,93.28,145.3Z"/>
+      <path class="cls-6" d="M829.85,159.84l-54.07,84.22-54.52,84.92c-9.56,14.91-23.33,25.49-38.76,31.19-15.43-5.7-29.2-16.28-38.76-31.19l-54.52-84.92,93.28-145.3,15.24-23.74c14.99-23.36,40.3-36.1,66.14-36.1,14.52,0,29.21,4.02,42.33,12.45,36.48,23.43,47.07,71.99,23.64,108.47Z"/>
+    </g>
+    <text class="cls-2" transform="translate(554.72 61.84)"><tspan class="cls-15" x="0" y="0">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-37" x="12.08" y="0">r</tspan><tspan x="15.89" y="0">em ipsum </tspan><tspan x="-14.98" y="14.4">dolor sit ame</tspan><tspan class="cls-19" x="50.14" y="14.4">t</tspan><tspan class="cls-16" x="54.08" y="14.4">, </tspan><tspan class="cls-26" x="-24.06" y="28.8">c</tspan><tspan x="-18.75" y="28.8">onse</tspan><tspan class="cls-27" x="5.26" y="28.8">c</tspan><tspan class="cls-30" x="10.79" y="28.8">t</tspan><tspan x="14.69" y="28.8">etuer adipiscing eli</tspan><tspan class="cls-19" x="109.26" y="28.8">t</tspan><tspan x="113.19" y="28.8">, </tspan><tspan x="-29.41" y="43.2">sed diam nonum</tspan><tspan class="cls-18" x="55.11" y="43.2">m</tspan><tspan class="cls-36" x="64.96" y="43.2">y nibh </tspan><tspan x="-31.82" y="57.6">euismod tincidu</tspan><tspan class="cls-12" x="49.28" y="57.6">n</tspan><tspan x="55.89" y="57.6">t ut lao</tspan><tspan class="cls-37" x="90.74" y="57.6">r</tspan><tspan x="94.54" y="57.6">eet </tspan><tspan x="-30.3" y="72">dolo</tspan><tspan class="cls-37" x="-7.53" y="72">r</tspan><tspan x="-3.72" y="72">e ma</tspan><tspan class="cls-26" x="20.62" y="72">g</tspan><tspan x="27.26" y="72">na aliquam e</tspan><tspan class="cls-39" x="91.39" y="72">r</tspan><tspan class="cls-12" x="95.25" y="72">a</tspan><tspan x="100.99" y="72">t </tspan><tspan class="cls-37" x="-25.73" y="86.4">v</tspan><tspan x="-20.08" y="86.4">olutp</tspan><tspan class="cls-12" x="6.75" y="86.4">a</tspan><tspan class="cls-34" x="12.49" y="86.4">t</tspan><tspan x="16.43" y="86.4">. </tspan><tspan class="cls-31" x="21.45" y="86.4">U</tspan><tspan x="29.27" y="86.4">t wisi enim ad minim </tspan><tspan class="cls-37" x="-17.77" y="100.8">v</tspan><tspan x="-12.12" y="100.8">eniam, quis nostrud </tspan><tspan class="cls-19" x="89.47" y="100.8">e</tspan><tspan class="cls-1" x="95.44" y="100.8">x</tspan><tspan x="100.82" y="100.8">e</tspan><tspan class="cls-37" x="106.83" y="100.8">r</tspan><tspan x="110.63" y="100.8">ci t</tspan><tspan class="cls-12" x="125.33" y="100.8">a</tspan><tspan x="131.07" y="100.8">tion </tspan><tspan x="-8.53" y="115.2">ullam</tspan><tspan class="cls-26" x="19.54" y="115.2">c</tspan><tspan x="24.84" y="115.2">o</tspan><tspan class="cls-31" x="31.43" y="115.2">r</tspan><tspan x="35.4" y="115.2">per suscipit lobo</tspan><tspan class="cls-8" x="118" y="115.2">r</tspan><tspan x="122.21" y="115.2">tis nisl ut </tspan><tspan x=".72" y="129.6">aliquip </tspan><tspan class="cls-19" x="37.69" y="129.6">e</tspan><tspan class="cls-16" x="43.66" y="129.6">x ea </tspan><tspan class="cls-11" x="66.1" y="129.6">c</tspan><tspan x="71.41" y="129.6">ommodo </tspan><tspan class="cls-30" x="120.5" y="129.6">c</tspan><tspan x="125.8" y="129.6">onsequ</tspan><tspan class="cls-12" x="163.18" y="129.6">a</tspan><tspan class="cls-19" x="168.92" y="129.6">t</tspan><tspan x="172.85" y="129.6">. </tspan><tspan class="cls-21" x="9.96" y="144">D</tspan><tspan class="cls-16" x="17.99" y="144">uis au</tspan><tspan class="cls-26" x="47.1" y="144">t</tspan><tspan x="51" y="144">em </tspan><tspan class="cls-37" x="69.56" y="144">v</tspan><tspan x="75.21" y="144">el eum i</tspan><tspan class="cls-31" x="114.59" y="144">r</tspan><tspan x="118.56" y="144">iu</tspan><tspan class="cls-28" x="127.98" y="144">r</tspan><tspan x="131.78" y="144">e dolor in </tspan><tspan x="19.21" y="158.4">hend</tspan><tspan class="cls-37" x="45.31" y="158.4">r</tspan><tspan x="49.11" y="158.4">e</tspan><tspan class="cls-23" x="55.12" y="158.4">r</tspan><tspan x="59.09" y="158.4">it in vulput</tspan><tspan class="cls-12" x="113.06" y="158.4">a</tspan><tspan class="cls-30" x="118.79" y="158.4">t</tspan><tspan x="122.69" y="158.4">e </tspan><tspan class="cls-37" x="131.25" y="158.4">v</tspan><tspan x="136.9" y="158.4">elit esse </tspan><tspan x="28.45" y="172.8">molestie </tspan><tspan class="cls-30" x="73.98" y="172.8">c</tspan><tspan x="79.28" y="172.8">onsequ</tspan><tspan class="cls-12" x="116.66" y="172.8">a</tspan><tspan class="cls-19" x="122.4" y="172.8">t</tspan><tspan x="126.33" y="172.8">, </tspan><tspan class="cls-28" x="131.36" y="172.8">v</tspan><tspan x="137.01" y="172.8">el illum dolo</tspan><tspan class="cls-37" x="198.81" y="172.8">r</tspan><tspan x="202.62" y="172.8">e </tspan><tspan x="37.7" y="187.2">eu </tspan><tspan class="cls-18" x="52.86" y="187.2">f</tspan><tspan x="56.21" y="187.2">eu</tspan><tspan class="cls-26" x="68.83" y="187.2">g</tspan><tspan x="75.47" y="187.2">i</tspan><tspan class="cls-12" x="78.28" y="187.2">a</tspan><tspan x="84.01" y="187.2">t nulla facilisis </tspan><tspan class="cls-13" x="155.76" y="187.2">a</tspan><tspan class="cls-20" x="161.5" y="187.2">t </tspan><tspan class="cls-28" x="168.01" y="187.2">v</tspan><tspan x="173.67" y="187.2">e</tspan><tspan class="cls-37" x="179.68" y="187.2">r</tspan><tspan x="183.48" y="187.2">o e</tspan><tspan class="cls-37" x="198.62" y="187.2">r</tspan><tspan x="202.43" y="187.2">os </tspan><tspan x="46.94" y="201.6">et a</tspan><tspan class="cls-30" x="65.25" y="201.6">c</tspan><tspan x="70.56" y="201.6">cumsan et ius</tspan><tspan class="cls-11" x="138.99" y="201.6">t</tspan><tspan x="142.89" y="201.6">o odio </tspan><tspan x="56.19" y="216">di</tspan><tspan class="cls-30" x="65.76" y="216">g</tspan><tspan x="72.4" y="216">nissim qui blandit </tspan><tspan x="65.43" y="230.4">p</tspan><tspan class="cls-39" x="72.26" y="230.4">r</tspan><tspan x="76.12" y="230.4">aese</tspan><tspan class="cls-12" x="98.68" y="230.4">n</tspan><tspan x="105.29" y="230.4">t lupt</tspan><tspan class="cls-13" x="132.05" y="230.4">a</tspan><tspan x="137.79" y="230.4">tum zz</tspan><tspan class="cls-7" x="171.2" y="230.4">r</tspan><tspan x="175.17" y="230.4">il </tspan><tspan x="74.68" y="244.8">delenit augue duis </tspan><tspan x="83.92" y="259.2">dolo</tspan><tspan class="cls-37" x="106.7" y="259.2">r</tspan><tspan x="110.5" y="259.2">e </tspan><tspan class="cls-11" x="119.06" y="259.2">t</tspan><tspan x="122.96" y="259.2">e </tspan><tspan class="cls-9" x="131.51" y="259.2">f</tspan><tspan x="134.86" y="259.2">eugait </tspan><tspan x="93.63" y="273.6">nulla facilisi.</tspan><tspan class="cls-15" x="108.56" y="288">L</tspan><tspan x="114.06" y="288">o</tspan><tspan class="cls-37" x="120.65" y="288">r</tspan><tspan x="124.45" y="288">em </tspan></text>
+  </g>
+  <text class="cls-3" transform="translate(202.54 31.52)"><tspan class="cls-15" x="0" y="0">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-37" x="12.08" y="0">r</tspan><tspan x="15.89" y="0">em </tspan><tspan x="-58.33" y="14.4">ipsum dolor sit ame</tspan><tspan class="cls-19" x="40.35" y="14.4">t</tspan><tspan x="44.28" y="14.4">, </tspan><tspan class="cls-26" x="-86.38" y="28.8">c</tspan><tspan x="-81.08" y="28.8">onse</tspan><tspan class="cls-27" x="-57.07" y="28.8">c</tspan><tspan class="cls-30" x="-51.54" y="28.8">t</tspan><tspan x="-47.64" y="28.8">etuer adipiscing eli</tspan><tspan class="cls-19" x="46.93" y="28.8">t</tspan><tspan x="50.87" y="28.8">, sed diam </tspan><tspan x="-106.64" y="43.2">nonum</tspan><tspan class="cls-18" x="-70.11" y="43.2">m</tspan><tspan x="-60.26" y="43.2">y nibh euismod tincidu</tspan><tspan class="cls-12" x="54.53" y="43.2">n</tspan><tspan x="61.15" y="43.2">t ut lao</tspan><tspan class="cls-37" x="95.99" y="43.2">r</tspan><tspan x="99.8" y="43.2">eet </tspan><tspan x="-122.5" y="57.6">dolo</tspan><tspan class="cls-37" x="-99.72" y="57.6">r</tspan><tspan x="-95.92" y="57.6">e ma</tspan><tspan class="cls-26" x="-71.57" y="57.6">g</tspan><tspan x="-64.94" y="57.6">na aliquam e</tspan><tspan class="cls-17" x="-.81" y="57.6">r</tspan><tspan class="cls-12" x="3.06" y="57.6">a</tspan><tspan x="8.79" y="57.6">t </tspan><tspan class="cls-10" x="15.31" y="57.6">v</tspan><tspan x="20.96" y="57.6">olutp</tspan><tspan class="cls-12" x="47.79" y="57.6">a</tspan><tspan class="cls-19" x="53.53" y="57.6">t</tspan><tspan x="57.46" y="57.6">. </tspan><tspan class="cls-7" x="62.49" y="57.6">U</tspan><tspan class="cls-29" x="70.3" y="57.6">t wisi enim ad </tspan><tspan x="-135.33" y="72">minim </tspan><tspan class="cls-37" x="-100.5" y="72">v</tspan><tspan x="-94.84" y="72">eniam, quis nostrud </tspan><tspan class="cls-34" x="6.75" y="72">e</tspan><tspan class="cls-38" x="12.72" y="72">x</tspan><tspan x="18.1" y="72">e</tspan><tspan class="cls-10" x="24.11" y="72">r</tspan><tspan x="27.91" y="72">ci t</tspan><tspan class="cls-14" x="42.61" y="72">a</tspan><tspan x="48.35" y="72">tion ullam</tspan><tspan class="cls-30" x="98.99" y="72">c</tspan><tspan x="104.29" y="72">o</tspan><tspan class="cls-7" x="110.88" y="72">r</tspan><tspan x="114.85" y="72">per suscipit </tspan><tspan x="-145.84" y="86.4">lobo</tspan><tspan class="cls-24" x="-123" y="86.4">r</tspan><tspan class="cls-16" x="-118.79" y="86.4">tis nisl ut aliquip </tspan><tspan class="cls-19" x="-35.02" y="86.4">e</tspan><tspan x="-29.04" y="86.4">x ea </tspan><tspan class="cls-26" x="-6.6" y="86.4">c</tspan><tspan x="-1.3" y="86.4">ommodo </tspan><tspan class="cls-11" x="47.79" y="86.4">c</tspan><tspan x="53.1" y="86.4">onsequ</tspan><tspan class="cls-12" x="90.48" y="86.4">a</tspan><tspan class="cls-19" x="96.21" y="86.4">t</tspan><tspan x="100.15" y="86.4">. </tspan><tspan class="cls-25" x="105.18" y="86.4">D</tspan><tspan class="cls-20" x="113.2" y="86.4">uis au</tspan><tspan class="cls-30" x="142.32" y="86.4">t</tspan><tspan x="146.22" y="86.4">em </tspan><tspan class="cls-37" x="164.78" y="86.4">v</tspan><tspan x="170.43" y="86.4">el </tspan><tspan x="-154.43" y="100.8">eum i</tspan><tspan class="cls-31" x="-126.45" y="100.8">r</tspan><tspan x="-122.48" y="100.8">iu</tspan><tspan class="cls-10" x="-113.06" y="100.8">r</tspan><tspan x="-109.25" y="100.8">e dolor in hend</tspan><tspan class="cls-37" x="-33.34" y="100.8">r</tspan><tspan x="-29.54" y="100.8">e</tspan><tspan class="cls-31" x="-23.53" y="100.8">r</tspan><tspan x="-19.55" y="100.8">it in vulput</tspan><tspan class="cls-12" x="34.41" y="100.8">a</tspan><tspan class="cls-26" x="40.14" y="100.8">t</tspan><tspan x="44.04" y="100.8">e </tspan><tspan class="cls-37" x="52.6" y="100.8">v</tspan><tspan x="58.25" y="100.8">elit esse molestie </tspan><tspan class="cls-26" x="-161.38" y="115.2">c</tspan><tspan x="-156.08" y="115.2">onsequ</tspan><tspan class="cls-14" x="-118.7" y="115.2">a</tspan><tspan class="cls-34" x="-112.97" y="115.2">t</tspan><tspan x="-109.03" y="115.2">, </tspan><tspan class="cls-37" x="-104" y="115.2">v</tspan><tspan x="-98.35" y="115.2">el illum dolo</tspan><tspan class="cls-10" x="-36.55" y="115.2">r</tspan><tspan x="-32.75" y="115.2">e eu </tspan><tspan class="cls-35" x="-9.02" y="115.2">f</tspan><tspan x="-5.68" y="115.2">eu</tspan><tspan class="cls-30" x="6.95" y="115.2">g</tspan><tspan x="13.58" y="115.2">i</tspan><tspan class="cls-12" x="16.39" y="115.2">a</tspan><tspan x="22.13" y="115.2">t nulla facilisis </tspan><tspan class="cls-12" x="93.87" y="115.2">a</tspan><tspan x="99.61" y="115.2">t </tspan><tspan class="cls-28" x="106.13" y="115.2">v</tspan><tspan x="111.78" y="115.2">e</tspan><tspan class="cls-37" x="117.79" y="115.2">r</tspan><tspan x="121.59" y="115.2">o e</tspan><tspan class="cls-37" x="136.74" y="115.2">r</tspan><tspan x="140.54" y="115.2">os et </tspan><tspan x="-166.88" y="129.6">a</tspan><tspan class="cls-26" x="-161.09" y="129.6">c</tspan><tspan x="-155.79" y="129.6">cumsan et ius</tspan><tspan class="cls-30" x="-87.35" y="129.6">t</tspan><tspan x="-83.45" y="129.6">o odio di</tspan><tspan class="cls-26" x="-39.45" y="129.6">g</tspan><tspan x="-32.81" y="129.6">nissim qui blandit p</tspan><tspan class="cls-39" x="65.26" y="129.6">r</tspan><tspan x="69.12" y="129.6">aese</tspan><tspan class="cls-12" x="91.68" y="129.6">n</tspan><tspan class="cls-29" x="98.3" y="129.6">t lupt</tspan><tspan class="cls-13" x="125.06" y="129.6">a</tspan><tspan x="130.79" y="129.6">tum zz</tspan><tspan class="cls-7" x="164.2" y="129.6">r</tspan><tspan class="cls-29" x="168.17" y="129.6">il </tspan><tspan x="-171.03" y="144">delenit augue duis dolo</tspan><tspan class="cls-37" x="-52.89" y="144">r</tspan><tspan x="-49.09" y="144">e </tspan><tspan class="cls-26" x="-40.53" y="144">t</tspan><tspan x="-36.63" y="144">e </tspan><tspan class="cls-18" x="-28.08" y="144">f</tspan><tspan x="-24.73" y="144">eugait nulla facilisi.</tspan><tspan class="cls-15" x="-173.94" y="158.4">L</tspan><tspan x="-168.45" y="158.4">o</tspan><tspan class="cls-37" x="-161.86" y="158.4">r</tspan><tspan x="-158.05" y="158.4">em ipsum dolor sit ame</tspan><tspan class="cls-34" x="-40.82" y="158.4">t</tspan><tspan x="-36.88" y="158.4">, </tspan><tspan class="cls-26" x="-31.85" y="158.4">c</tspan><tspan x="-26.55" y="158.4">ons e</tspan><tspan class="cls-27" x="0" y="158.4">c</tspan><tspan class="cls-30" x="5.54" y="158.4">t</tspan><tspan x="9.44" y="158.4">etuer adipiscing eli</tspan><tspan class="cls-19" x="104.01" y="158.4">t</tspan><tspan x="107.94" y="158.4">, sed diam </tspan><tspan x="-175.67" y="172.8">nonum</tspan><tspan class="cls-18" x="-139.14" y="172.8">m</tspan><tspan x="-129.29" y="172.8">y nibh euismod tincidu</tspan><tspan class="cls-12" x="-14.5" y="172.8">n</tspan><tspan x="-7.88" y="172.8">t ut lao</tspan><tspan class="cls-37" x="26.96" y="172.8">r</tspan><tspan x="30.77" y="172.8">eet dolo</tspan><tspan class="cls-37" x="72.08" y="172.8">r</tspan><tspan x="75.89" y="172.8">e ma</tspan><tspan class="cls-30" x="100.23" y="172.8">g</tspan><tspan x="106.87" y="172.8">na aliquam e</tspan><tspan class="cls-39" x="171" y="172.8">r</tspan><tspan class="cls-12" x="174.86" y="172.8">a</tspan><tspan x="180.6" y="172.8">t </tspan><tspan class="cls-37" x="-176.1" y="187.2">v</tspan><tspan x="-170.45" y="187.2">olutp</tspan><tspan class="cls-12" x="-143.62" y="187.2">a</tspan><tspan class="cls-34" x="-137.88" y="187.2">t</tspan><tspan x="-133.95" y="187.2">. </tspan><tspan class="cls-31" x="-128.92" y="187.2">U</tspan><tspan x="-121.11" y="187.2">t wisi enim ad minim </tspan><tspan class="cls-37" x="-14.88" y="187.2">v</tspan><tspan x="-9.23" y="187.2">eniam, quis nostrud </tspan><tspan class="cls-19" x="92.36" y="187.2">e</tspan><tspan class="cls-1" x="98.33" y="187.2">x</tspan><tspan x="103.71" y="187.2">e</tspan><tspan class="cls-37" x="109.72" y="187.2">r</tspan><tspan x="113.53" y="187.2">ci t</tspan><tspan class="cls-12" x="128.23" y="187.2">a</tspan><tspan x="133.96" y="187.2">tion </tspan><tspan x="-174.96" y="201.6">ullam</tspan><tspan class="cls-26" x="-146.89" y="201.6">c</tspan><tspan x="-141.59" y="201.6">o</tspan><tspan class="cls-31" x="-135" y="201.6">r</tspan><tspan x="-131.03" y="201.6">per suscipit lobo</tspan><tspan class="cls-24" x="-48.43" y="201.6">r</tspan><tspan x="-44.22" y="201.6">tis nisl ut aliquip </tspan><tspan class="cls-19" x="39.55" y="201.6">e</tspan><tspan x="45.52" y="201.6">x ea </tspan><tspan class="cls-11" x="67.96" y="201.6">c</tspan><tspan x="73.27" y="201.6">ommodo </tspan><tspan class="cls-30" x="122.36" y="201.6">c</tspan><tspan x="127.66" y="201.6">onsequ</tspan><tspan class="cls-12" x="165.04" y="201.6">a</tspan><tspan class="cls-19" x="170.78" y="201.6">t</tspan><tspan x="174.72" y="201.6">.</tspan><tspan class="cls-15" x="-172.65" y="216">L</tspan><tspan x="-167.16" y="216">o</tspan><tspan class="cls-37" x="-160.57" y="216">r</tspan><tspan x="-156.77" y="216">em ipsum dolor sit ame</tspan><tspan class="cls-34" x="-39.53" y="216">t</tspan><tspan x="-35.59" y="216">, </tspan><tspan class="cls-26" x="-30.56" y="216">c</tspan><tspan x="-25.26" y="216">onse</tspan><tspan class="cls-27" x="-1.25" y="216">c</tspan><tspan class="cls-30" x="4.28" y="216">t</tspan><tspan x="8.18" y="216">etuer adipiscing eli</tspan><tspan class="cls-19" x="102.75" y="216">t</tspan><tspan x="106.69" y="216">, sed diam </tspan><tspan x="-169.14" y="230.4">nonum</tspan><tspan class="cls-18" x="-132.61" y="230.4">m</tspan><tspan x="-122.76" y="230.4">y nibh euismod tincidu</tspan><tspan class="cls-12" x="-7.97" y="230.4">n</tspan><tspan x="-1.35" y="230.4">t ut lao</tspan><tspan class="cls-37" x="33.49" y="230.4">r</tspan><tspan x="37.3" y="230.4">eet dolo</tspan><tspan class="cls-28" x="78.61" y="230.4">r</tspan><tspan x="82.42" y="230.4">e ma</tspan><tspan class="cls-30" x="106.76" y="230.4">g</tspan><tspan x="113.4" y="230.4">na aliquam e</tspan><tspan class="cls-39" x="177.53" y="230.4">r</tspan><tspan class="cls-12" x="181.39" y="230.4">a</tspan><tspan x="187.13" y="230.4">t </tspan><tspan class="cls-37" x="-164.33" y="244.8">v</tspan><tspan x="-158.68" y="244.8">olutp</tspan><tspan class="cls-12" x="-131.85" y="244.8">a</tspan><tspan class="cls-34" x="-126.11" y="244.8">t</tspan><tspan x="-122.18" y="244.8">. </tspan><tspan class="cls-31" x="-117.15" y="244.8">U</tspan><tspan x="-109.34" y="244.8">t wisi enim ad minim </tspan><tspan class="cls-37" x="-3.11" y="244.8">v</tspan><tspan x="2.54" y="244.8">eniam, quis nostrud </tspan><tspan class="cls-19" x="104.13" y="244.8">e</tspan><tspan class="cls-1" x="110.1" y="244.8">x</tspan><tspan x="115.48" y="244.8">e</tspan><tspan class="cls-37" x="121.49" y="244.8">r</tspan><tspan x="125.3" y="244.8">ci t</tspan><tspan class="cls-12" x="139.99" y="244.8">a</tspan><tspan x="145.73" y="244.8">tion </tspan><tspan x="-158.14" y="259.2">ullam</tspan><tspan class="cls-26" x="-130.07" y="259.2">c</tspan><tspan x="-124.77" y="259.2">o</tspan><tspan class="cls-31" x="-118.18" y="259.2">r</tspan><tspan x="-114.21" y="259.2">per suscipit lobo</tspan><tspan class="cls-24" x="-31.61" y="259.2">r</tspan><tspan x="-27.4" y="259.2">tis nisl ut aliquip </tspan><tspan class="cls-19" x="56.37" y="259.2">e</tspan><tspan x="62.35" y="259.2">x ea </tspan><tspan class="cls-11" x="84.79" y="259.2">c</tspan><tspan x="90.09" y="259.2">ommodo </tspan><tspan class="cls-30" x="139.18" y="259.2">c</tspan><tspan x="144.48" y="259.2">onsequ</tspan><tspan class="cls-12" x="181.86" y="259.2">a</tspan><tspan class="cls-19" x="187.6" y="259.2">t</tspan><tspan x="191.54" y="259.2">. </tspan><tspan class="cls-32" x="-150.4" y="273.6">D</tspan><tspan class="cls-36" x="-142.37" y="273.6">uis au</tspan><tspan class="cls-26" x="-113.26" y="273.6">t</tspan><tspan x="-109.36" y="273.6">em </tspan><tspan class="cls-10" x="-90.8" y="273.6">v</tspan><tspan x="-85.14" y="273.6">el eum i</tspan><tspan class="cls-31" x="-45.77" y="273.6">r</tspan><tspan x="-41.8" y="273.6">iu</tspan><tspan class="cls-37" x="-32.38" y="273.6">r</tspan><tspan x="-28.58" y="273.6">e dolor in hend</tspan><tspan class="cls-37" x="47.33" y="273.6">r</tspan><tspan x="51.14" y="273.6">e</tspan><tspan class="cls-31" x="57.15" y="273.6">r</tspan><tspan x="61.12" y="273.6">it in vulput</tspan><tspan class="cls-12" x="115.08" y="273.6">a</tspan><tspan class="cls-30" x="120.82" y="273.6">t</tspan><tspan x="124.72" y="273.6">e </tspan><tspan class="cls-37" x="133.28" y="273.6">v</tspan><tspan x="138.93" y="273.6">elit esse </tspan><tspan x="-140.9" y="288">molestie </tspan><tspan class="cls-26" x="-95.37" y="288">c</tspan><tspan x="-90.07" y="288">onsequ</tspan><tspan class="cls-14" x="-52.69" y="288">a</tspan><tspan class="cls-34" x="-46.95" y="288">t</tspan><tspan x="-43.02" y="288">, </tspan><tspan class="cls-37" x="-37.99" y="288">v</tspan><tspan x="-32.34" y="288">el illum dolo</tspan><tspan class="cls-10" x="29.46" y="288">r</tspan><tspan x="33.27" y="288">e eu </tspan><tspan class="cls-35" x="56.99" y="288">f</tspan><tspan x="60.34" y="288">eu</tspan><tspan class="cls-11" x="72.96" y="288">g</tspan><tspan x="79.6" y="288">i</tspan><tspan class="cls-13" x="82.41" y="288">a</tspan><tspan x="88.14" y="288">t nulla facilisis </tspan><tspan class="cls-12" x="159.89" y="288">a</tspan><tspan x="165.63" y="288">t </tspan><tspan class="cls-37" x="-129.31" y="302.4">v</tspan><tspan x="-123.66" y="302.4">e</tspan><tspan class="cls-10" x="-117.65" y="302.4">r</tspan><tspan x="-113.84" y="302.4">o e</tspan><tspan class="cls-37" x="-98.7" y="302.4">r</tspan><tspan x="-94.89" y="302.4">os et a</tspan><tspan class="cls-26" x="-62.7" y="302.4">c</tspan><tspan x="-57.39" y="302.4">cumsan et ius</tspan><tspan class="cls-30" x="11.04" y="302.4">t</tspan><tspan x="14.94" y="302.4">o odio di</tspan><tspan class="cls-11" x="58.94" y="302.4">g</tspan><tspan x="65.58" y="302.4">nissim qui blandit </tspan><tspan x="-115.09" y="316.8">p</tspan><tspan class="cls-17" x="-108.27" y="316.8">r</tspan><tspan x="-104.4" y="316.8">aese</tspan><tspan class="cls-12" x="-81.84" y="316.8">n</tspan><tspan x="-75.23" y="316.8">t lupt</tspan><tspan class="cls-12" x="-48.47" y="316.8">a</tspan><tspan x="-42.73" y="316.8">tum zz</tspan><tspan class="cls-31" x="-9.33" y="316.8">r</tspan><tspan x="-5.36" y="316.8">il delenit augue duis dolo</tspan><tspan class="cls-37" x="120.97" y="316.8">r</tspan><tspan x="124.77" y="316.8">e </tspan><tspan class="cls-30" x="133.33" y="316.8">t</tspan><tspan x="137.23" y="316.8">e </tspan><tspan class="cls-18" x="-97.3" y="331.2">f</tspan><tspan x="-93.95" y="331.2">eugait nulla facilisi.</tspan><tspan class="cls-15" x="-73.88" y="345.6">L</tspan><tspan x="-68.39" y="345.6">o</tspan><tspan class="cls-37" x="-61.8" y="345.6">r</tspan><tspan x="-57.99" y="345.6">em ipsum dolor sit ame</tspan><tspan class="cls-22" x="59.24" y="345.6">t</tspan><tspan class="cls-29" x="63.18" y="345.6">, </tspan><tspan class="cls-30" x="68.21" y="345.6">c</tspan><tspan x="73.51" y="345.6">ons </tspan><tspan x="-38.18" y="360">e</tspan><tspan class="cls-27" x="-32.17" y="360">c</tspan><tspan class="cls-26" x="-26.64" y="360">t</tspan><tspan x="-22.74" y="360">etuer adipiscing </tspan></text>
+  <path class="cls-6" d="M1208.57,258.65l-54.52,84.92c-9.56,14.91-23.33,25.49-38.76,31.19-15.43-5.7-29.2-16.28-38.76-31.19l-54.52-84.92-54.07-84.22c-23.43-36.48-12.84-85.04,23.64-108.47,13.12-8.43,27.81-12.45,42.33-12.45,25.84,0,51.15,12.74,66.14,36.1l15.24,23.74,93.28,145.3Z"/>
+  <text class="cls-4" transform="translate(1150.07 76.43)"><tspan class="cls-15" x="0" y="0">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-37" x="12.08" y="0">r</tspan><tspan x="15.89" y="0">em ipsum </tspan><tspan x="-14.93" y="14.4">dolor sit ame</tspan><tspan class="cls-19" x="50.19" y="14.4">t</tspan><tspan x="54.13" y="14.4">, </tspan><tspan class="cls-30" x="-24.64" y="28.8">c</tspan><tspan x="-19.34" y="28.8">onse</tspan><tspan class="cls-33" x="4.67" y="28.8">c</tspan><tspan class="cls-30" x="10.2" y="28.8">t</tspan><tspan x="14.1" y="28.8">etuer adipiscing eli</tspan><tspan class="cls-19" x="108.67" y="28.8">t</tspan><tspan x="112.61" y="28.8">, </tspan><tspan x="-33.89" y="43.2">sed diam nonum</tspan><tspan class="cls-35" x="50.63" y="43.2">m</tspan><tspan x="60.48" y="43.2">y nibh </tspan><tspan x="-43.13" y="57.6">euismod tincidu</tspan><tspan class="cls-12" x="37.96" y="57.6">n</tspan><tspan x="44.57" y="57.6">t ut lao</tspan><tspan class="cls-37" x="79.42" y="57.6">r</tspan><tspan x="83.23" y="57.6">eet </tspan><tspan x="-52.38" y="72">dolo</tspan><tspan class="cls-37" x="-29.6" y="72">r</tspan><tspan x="-25.8" y="72">e ma</tspan><tspan class="cls-11" x="-1.45" y="72">g</tspan><tspan x="5.19" y="72">na aliquam e</tspan><tspan class="cls-39" x="69.31" y="72">r</tspan><tspan class="cls-12" x="73.18" y="72">a</tspan><tspan x="78.91" y="72">t </tspan><tspan class="cls-37" x="-61.62" y="86.4">v</tspan><tspan x="-55.97" y="86.4">olutp</tspan><tspan class="cls-12" x="-29.14" y="86.4">a</tspan><tspan class="cls-19" x="-23.4" y="86.4">t</tspan><tspan x="-19.47" y="86.4">. </tspan><tspan class="cls-31" x="-14.44" y="86.4">U</tspan><tspan x="-6.63" y="86.4">t wisi enim ad minim </tspan><tspan class="cls-37" x="-70.87" y="100.8">v</tspan><tspan x="-65.21" y="100.8">eniam, quis nostrud </tspan><tspan class="cls-19" x="36.38" y="100.8">e</tspan><tspan class="cls-1" x="42.35" y="100.8">x</tspan><tspan x="47.73" y="100.8">e</tspan><tspan class="cls-37" x="53.74" y="100.8">r</tspan><tspan x="57.54" y="100.8">ci t</tspan><tspan class="cls-12" x="72.24" y="100.8">a</tspan><tspan x="77.98" y="100.8">tion </tspan><tspan x="-80.11" y="115.2">ullam</tspan><tspan class="cls-30" x="-52.04" y="115.2">c</tspan><tspan x="-46.74" y="115.2">o</tspan><tspan class="cls-31" x="-40.15" y="115.2">r</tspan><tspan x="-36.18" y="115.2">per suscipit lobo</tspan><tspan class="cls-8" x="46.42" y="115.2">r</tspan><tspan x="50.63" y="115.2">tis nisl ut </tspan><tspan x="-89.35" y="129.6">aliquip </tspan><tspan class="cls-19" x="-52.38" y="129.6">e</tspan><tspan x="-46.41" y="129.6">x ea </tspan><tspan class="cls-11" x="-23.97" y="129.6">c</tspan><tspan x="-18.66" y="129.6">ommodo </tspan><tspan class="cls-30" x="30.43" y="129.6">c</tspan><tspan x="35.73" y="129.6">onsequ</tspan><tspan class="cls-12" x="73.11" y="129.6">a</tspan><tspan class="cls-19" x="78.85" y="129.6">t</tspan><tspan x="82.78" y="129.6">. </tspan><tspan class="cls-32" x="-98.6" y="144">D</tspan><tspan x="-90.57" y="144">uis au</tspan><tspan class="cls-30" x="-61.46" y="144">t</tspan><tspan x="-57.56" y="144">em </tspan><tspan class="cls-37" x="-39" y="144">v</tspan><tspan x="-33.34" y="144">el eum i</tspan><tspan class="cls-31" x="6.03" y="144">r</tspan><tspan x="10" y="144">iu</tspan><tspan class="cls-28" x="19.42" y="144">r</tspan><tspan x="23.22" y="144">e dolor in </tspan><tspan x="-107.84" y="158.4">hend</tspan><tspan class="cls-37" x="-81.74" y="158.4">r</tspan><tspan x="-77.94" y="158.4">e</tspan><tspan class="cls-31" x="-71.93" y="158.4">r</tspan><tspan x="-67.96" y="158.4">it in vulput</tspan><tspan class="cls-12" x="-13.99" y="158.4">a</tspan><tspan class="cls-11" x="-8.26" y="158.4">t</tspan><tspan x="-4.36" y="158.4">e </tspan><tspan class="cls-28" x="4.2" y="158.4">v</tspan><tspan x="9.85" y="158.4">elit esse </tspan><tspan x="-117.09" y="172.8">molestie </tspan><tspan class="cls-30" x="-71.56" y="172.8">c</tspan><tspan x="-66.26" y="172.8">onsequ</tspan><tspan class="cls-12" x="-28.88" y="172.8">a</tspan><tspan class="cls-19" x="-23.14" y="172.8">t</tspan><tspan x="-19.21" y="172.8">, </tspan><tspan class="cls-28" x="-14.18" y="172.8">v</tspan><tspan x="-8.53" y="172.8">el illum dolo</tspan><tspan class="cls-37" x="53.27" y="172.8">r</tspan><tspan x="57.08" y="172.8">e </tspan><tspan x="-124.87" y="187.2">eu </tspan><tspan class="cls-35" x="-109.7" y="187.2">f</tspan><tspan x="-106.35" y="187.2">eu</tspan><tspan class="cls-11" x="-93.73" y="187.2">g</tspan><tspan x="-87.09" y="187.2">i</tspan><tspan class="cls-12" x="-84.28" y="187.2">a</tspan><tspan x="-78.55" y="187.2">t nulla facilisis </tspan><tspan class="cls-12" x="-6.8" y="187.2">a</tspan><tspan class="cls-29" x="-1.06" y="187.2">t </tspan><tspan class="cls-37" x="5.45" y="187.2">v</tspan><tspan x="11.1" y="187.2">e</tspan><tspan class="cls-37" x="17.12" y="187.2">r</tspan><tspan x="20.92" y="187.2">o e</tspan><tspan class="cls-37" x="36.06" y="187.2">r</tspan><tspan x="39.87" y="187.2">os </tspan><tspan x="-115.62" y="201.6">et a</tspan><tspan class="cls-30" x="-97.31" y="201.6">c</tspan><tspan x="-92.01" y="201.6">cumsan et ius</tspan><tspan class="cls-11" x="-23.57" y="201.6">t</tspan><tspan x="-19.67" y="201.6">o odio </tspan><tspan x="-106.38" y="216">di</tspan><tspan class="cls-30" x="-96.8" y="216">g</tspan><tspan x="-90.17" y="216">nissim qui blandit </tspan><tspan x="-97.13" y="230.4">p</tspan><tspan class="cls-39" x="-90.3" y="230.4">r</tspan><tspan x="-86.44" y="230.4">aese</tspan><tspan class="cls-12" x="-63.88" y="230.4">n</tspan><tspan x="-57.27" y="230.4">t lupt</tspan><tspan class="cls-13" x="-30.51" y="230.4">a</tspan><tspan x="-24.77" y="230.4">tum zz</tspan><tspan class="cls-7" x="8.63" y="230.4">r</tspan><tspan x="12.61" y="230.4">il </tspan><tspan x="-87.89" y="244.8">delenit augue duis </tspan><tspan x="-78.64" y="259.2">dolo</tspan><tspan class="cls-37" x="-55.87" y="259.2">r</tspan><tspan x="-52.06" y="259.2">e </tspan><tspan class="cls-11" x="-43.51" y="259.2">t</tspan><tspan x="-39.61" y="259.2">e </tspan><tspan class="cls-9" x="-31.05" y="259.2">f</tspan><tspan x="-27.71" y="259.2">eugait </tspan><tspan x="-68.93" y="273.6">nulla facilisi.</tspan><tspan class="cls-15" x="-54" y="288">L</tspan><tspan x="-48.51" y="288">o</tspan><tspan class="cls-37" x="-41.92" y="288">r</tspan><tspan x="-38.11" y="288">em </tspan></text>
+</svg>
